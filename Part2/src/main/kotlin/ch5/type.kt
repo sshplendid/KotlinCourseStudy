@@ -1,7 +1,5 @@
 package ch5
 
-import org.omg.CORBA.Object
-
 fun foo(arg: Any) {
     // 코틀린에서는 자바의 switch-case가 없다.
     when(arg) {
