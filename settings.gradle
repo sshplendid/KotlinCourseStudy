@@ -1,3 +1,4 @@
 rootProject.name = 'ktp'
 
 include 'Part2'
+include 'Part3'
